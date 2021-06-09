@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "biriri": {
     "title": "string",
     "views": "int",
     "published": "boolean",
