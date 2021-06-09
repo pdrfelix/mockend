@@ -1,11 +1,8 @@
 {
-  "Business": {
-    "url": "string",
-    "id": "number",
-    "permissions": "any",
-    "created_at": "string",
-    "updated_at": "string",
-    "name": "string",
-    "subscription_type": "string"
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
   }
 }
