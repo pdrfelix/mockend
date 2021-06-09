@@ -1,5 +1,5 @@
 {
-  "business": {
+  "Business": {
     "url": "string",
     "id": "number",
     "permissions": "any",
